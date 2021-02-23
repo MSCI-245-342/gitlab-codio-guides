@@ -1,0 +1,84 @@
+{
+ "name": "gitlab-1",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "ad30c241-6219-091e-ced7-b4c3f4326fbc",
+   "pageId": "ad30c241-6219-091e-ced7-b4c3f4326fbc",
+   "type": "page"
+  },
+  {
+   "title": "Tasks",
+   "id": "ff1a40fe-703f-4ad1-692c-faf30521b6ef",
+   "type": "section",
+   "children": [
+    {
+     "id": "08080adb-d056-4f8d-18f4-98bc1a3ecddc",
+     "title": "Create a Shared Repository",
+     "pageId": "f336cec6-35a6-6962-0a34-1929df88ab47",
+     "type": "page"
+    },
+    {
+     "id": "8bcf6900-6baa-b3b5-cac5-30caf2a6cdb9",
+     "title": "Be careful",
+     "pageId": "a8e1ec7b-8c09-128f-0806-5bacb9b52b12",
+     "type": "page"
+    },
+    {
+     "id": "42fee054-f8ac-8cee-02e8-46227568cd98",
+     "title": "Clone the repo",
+     "pageId": "bc1d6843-cb30-52bd-6efc-7e1666f72264",
+     "type": "page"
+    },
+    {
+     "id": "665c1f62-2cbb-5049-479c-0fe4bd3b1899",
+     "title": "Edit the README.md file",
+     "pageId": "c2cf2434-cc92-cc2a-acb5-07caeb7bcaec",
+     "type": "page"
+    },
+    {
+     "id": "360e66dd-bb9c-532f-2b9a-48600553a998",
+     "title": "The view from GitHub",
+     "pageId": "da9b917c-5a34-1b34-d0d6-ceb39e188cbf",
+     "type": "page"
+    },
+    {
+     "id": "06b7e705-0a5a-7df0-0e77-fb5d3e1941c2",
+     "title": "Reviewing the PR",
+     "pageId": "7186bc5b-0844-9d33-b8dd-9ec08bea9356",
+     "type": "page"
+    },
+    {
+     "id": "55626451-a47d-c31a-79c3-833521ff9b77",
+     "title": "Review so far",
+     "pageId": "e65f4580-dad0-ac2f-f20d-ba7544cafd90",
+     "type": "page"
+    },
+    {
+     "id": "798c31f4-6e0a-1355-4231-91818bdb208d",
+     "title": "Keeping in sync",
+     "pageId": "f05280dc-4ade-daf7-67e8-6f4e3c02b290",
+     "type": "page"
+    },
+    {
+     "id": "0854ea04-4943-94f7-fc67-f658cdbbe4b6",
+     "title": "Resolving conflicts",
+     "pageId": "13627e36-304e-0c8f-3d79-25258717631f",
+     "type": "page"
+    },
+    {
+     "id": "b7ca5416-4c48-848f-c089-7c7954f014ff",
+     "title": "Everyone gets to practice",
+     "pageId": "589b1ab2-fffc-f80e-efb7-9a9c6c726402",
+     "type": "page"
+    },
+    {
+     "id": "2a21da73-a849-2b1e-51ea-d49061eb7731",
+     "title": "What to turn in",
+     "pageId": "38b57101-bb4e-cf92-08ef-01012b7220ed",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}

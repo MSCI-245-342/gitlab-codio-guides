@@ -1,0 +1,167 @@
+{
+ "sections": [
+  {
+   "id": "ad30c241-6219-091e-ced7-b4c3f4326fbc",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-ad30.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f336cec6-35a6-6962-0a34-1929df88ab47",
+   "title": "Create a Shared Repository",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-a-Shared-Repository-f336.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a8e1ec7b-8c09-128f-0806-5bacb9b52b12",
+   "title": "Be careful",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Be-careful-a8e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bc1d6843-cb30-52bd-6efc-7e1666f72264",
+   "title": "Clone the repo",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Clone-the-repo-bc1d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c2cf2434-cc92-cc2a-acb5-07caeb7bcaec",
+   "title": "Edit the README.md file",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Edit-the-README-md-file-c2cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "da9b917c-5a34-1b34-d0d6-ceb39e188cbf",
+   "title": "The view from GitHub",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-view-from-GitHub-da9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7186bc5b-0844-9d33-b8dd-9ec08bea9356",
+   "title": "Reviewing the PR",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reviewing-the-PR-7186.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e65f4580-dad0-ac2f-f20d-ba7544cafd90",
+   "title": "Review so far",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Review-so-far-e65f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f05280dc-4ade-daf7-67e8-6f4e3c02b290",
+   "title": "Keeping in sync",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Keeping-in-sync-f052.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "13627e36-304e-0c8f-3d79-25258717631f",
+   "title": "Resolving conflicts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Resolving-conflicts-1362.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "589b1ab2-fffc-f80e-efb7-9a9c6c726402",
+   "title": "Everyone gets to practice",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Everyone-gets-to-practice-589b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "38b57101-bb4e-cf92-08ef-01012b7220ed",
+   "title": "What to turn in",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-to-turn-in-38b5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
