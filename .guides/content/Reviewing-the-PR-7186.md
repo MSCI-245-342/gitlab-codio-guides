@@ -48,7 +48,7 @@ The steps to review the PR are:
 
 	Click on README.md in the file tree and be sure it looks good.  This is your "testing" of the "code".  Close the file tab.
 
-	Often the person who submitted the PR, will need to update their branch before you're willing to approve the PR.  We are going to simulate that here with a you asking for a change.
+	Often the person who submitted the PR, will need to update their branch before you're willing to approve the PR.  We are going to simulate that here with you asking for a change.
 
 	Go back to GitHub and the Pull Request, and leave a polite comment asking the submitter to please change the heading `# Team NNN` to `# Team NNN Members` because you remember that is what the client wanted.  
 
