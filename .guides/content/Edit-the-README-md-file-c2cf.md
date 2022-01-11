@@ -4,9 +4,9 @@ The README.md file is written in a format called Markdown. Markdown makes create
 
 One person on the team should do the following work and everyone else on the team should follow along (either in person, or via a "share screen" if working remotely)
 
-1. Be sure you are in the 2021-gitlab-team-NNN directory: 
+1. Be sure you are in the W22-gitlab-team-NNN directory: 
     ```
-    cd 2021-gitlab-team-NNN
+    cd W22-gitlab-team-NNN
     ```
 1. Create a branch to work on:
     ```
