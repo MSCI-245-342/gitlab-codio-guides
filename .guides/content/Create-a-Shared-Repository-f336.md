@@ -26,7 +26,7 @@ Repository creation is done by 1 team member only.  Everyone on the team should 
 
 	- Click on "Manage access"
 
-	- Click on green button "Invite teams or people"
+	- Click on green button "Add teams"
 
 	- Search for your team and select it.
 
@@ -38,7 +38,7 @@ Repository creation is done by 1 team member only.  Everyone on the team should 
 
     - Click on "Branches"
 
-    - Under “Branch protection rules”, click "Add rule"
+    - Under "Branch protection rules", click "Add rule"
 
     - Type in "main" for the "Branch name pattern"
 
