@@ -50,4 +50,4 @@ Repository creation is done by 1 team member only.  Everyone on the team should 
 
 ### Save the above instructions
 
-**The above instructions are also what you will do to create the repository for your team project except that you'll name the team's project repository 2021-team-NNN.**
+**The above instructions are also what you will do to create the repository for your team project except that you'll name the team's project repository W22-team-NNN.**
