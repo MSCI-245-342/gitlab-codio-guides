@@ -10,7 +10,7 @@ Repository creation is done by 1 team member only.  Everyone on the team should 
 
     - Ignore the stuff about "Repository template".
 
-    - Name your repository `2021-gitlab-team-NNN` where you replace NNN with your team number, e.g. `2021-gitlab-team-1`.
+    - Name your repository `W22-gitlab-team-NNN` where you replace NNN with your team number, e.g. `W22-gitlab-team-1`.
 
     - Leave the description blank.
 
