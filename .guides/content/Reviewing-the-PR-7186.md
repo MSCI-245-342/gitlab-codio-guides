@@ -52,7 +52,7 @@ The steps to review the PR are:
 
 	Go back to GitHub and the Pull Request, and leave a polite comment asking the submitter to please change the heading `# Team NNN` to `# Team NNN Members` because you remember that is what the client wanted.  
 
-	Okay, now the original PR submitter, should go to their local repo.  A quick check with `git status` should show they are still on the `adding-names` branch.  The PR submitter should edit the README.md file as requested and save and close the file.  Then `git add README.md` and `git commit -m "made change requested to modify heading"`` and then `git push` to send the changed README.md back to GitHub.
+	Okay, now the original PR submitter, should go to their local repo.  A quick check with `git status` should show they are still on the `adding-names` branch.  The PR submitter should edit the README.md file as requested and save and close the file.  Then `git add README.md` and `git commit -m "made change requested to modify heading"` and then `git push` to send the changed README.md back to GitHub.
 
 	The team should take a look at the PR now.  You'll see it the new commit has become part of the PR.  Awesome.  The PR submitter should leave a comment "I've changed the heading.  Please check out.  Thanks!"
 
